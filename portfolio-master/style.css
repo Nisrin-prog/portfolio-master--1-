@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+    border:solid
+}
+body{
+    border:solid
+}
+.grid{
+    background-color:cornsilk;
+}
+.menu{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    flex-wrap:wrap
+}
+p{
+    font-family:"arial",
+   
+}
